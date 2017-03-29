@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="844px"
+	 height="936px" style="max-height: 100%" viewBox="0 0 844 936" enable-background="new 0 0 844 936" xml:space="preserve">
+<g id="Product_Image_Hex" display="">
+	
+	<rect x="221.416" y="42.455" display="inline" id="Product_Image_Door_Color" fill="#f5f4f1" width="401.014" height="893.552"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="596.541" y1="950.9473" x2="247.3056" y2="346.0539">
+		<stop  offset="0" style="stop-color:#231F20"/>
+		<stop  offset="0.6914" style="stop-color:#231F20;stop-opacity:0"/>
+	</linearGradient>
+	<rect x="221.416" y="361" display="inline" opacity="0.2" fill="url(#SVGID_1_)" width="401.014" height="575"/>
+	</g>
+
+<g id="Product_Image_Grain" display="none">
+	<g>
+		<defs>
+			<rect id="SVGID_2_" x="221.416" y="42.455" width="401.014" height="893.552"/>
+		</defs>
+		<clipPath id="SVGID_3_">
+			<use xlink:href="#SVGID_2_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_3_)">
+			
+				<image overflow="visible" width="900" height="900" xlink:href="//s3.amazonaws.com/db_site_assets/doors/int-grains/.jpg" display="none"   transform="matrix(1 0 0 1 -29.5312 36)">
+			</image>
+		</g>
+	</g>
+	<rect x="221.416" y="42.455" fill="#F4F4F4" width="401.014" height="893.552"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="596.541" y1="950.9473" x2="247.3056" y2="346.0539">
+		<stop  offset="0" style="stop-color:#231F20"/>
+		<stop  offset="0.6914" style="stop-color:#231F20;stop-opacity:0"/>
+	</linearGradient>
+	<rect x="221.416" y="361" opacity="0.3" fill="url(#SVGID_4_)" width="401.014" height="575"/>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="221.416" y="42.455" width="401.014" height="893.552"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_6_)">
+			
+				<image overflow="visible" width="900" height="900" xlink:href="//s3.amazonaws.com/db_site_assets/doors/int-grains/.jpg" display="none"   transform="matrix(1 0 0 1 -29.5312 36)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="Product_x5F_Image_x5F_Panel-684_1_">
+	<path display="inline" opacity="0.2" fill="#231F20" d="M282.755,93.599v425.002h278.58V93.599H282.755z M548.348,503.099H296.676
+		V110.012h251.671V503.099z"/>
+	
+		<polyline display="inline" opacity="0.3" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+		561.336,518.601 561.336,93.599 282.756,93.599 	"/>
+	<g display="inline" opacity="0.2">
+		<path fill="#26100A" d="M550.984,107.152v397.861H293.697V107.152H550.984 M554.984,103.152h-4H293.697h-4v4v397.861v4h4h257.288
+			h4v-4V107.152V103.152L554.984,103.152z"/>
+	</g>
+	
+		<polyline display="inline" opacity="0.2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+		282.756,93.599 282.756,518.601 561.336,518.601 	"/>
+	<g display="inline">
+		<defs>
+			<path id="SVGID_107_" d="M561.336,92.547H281.464V42.462h279.872V92.547z M561.336,519.645H281.464v53.726h279.872V519.645z
+				 M561.336,849.61H281.464v88.14h279.872V849.61z"/>
+		</defs>
+		<clipPath id="SVGID_108_">
+			<use xlink:href="#SVGID_107_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_108_)">
+			
+				<image overflow="visible" width="900" height="900" xlink:href="//s3.amazonaws.com/db_site_assets/doors/int-grains/.jpg" id="Product_Image_Grain_Side_Door" display="none"   transform="matrix(0 -1 1 0 -214 936)">
+			</image>
+		</g>
+	</g>
+	<g display="inline">
+		<line opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" x1="561.589" y1="92.522" x2="281.464" y2="92.522"/>
+		<line opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" x1="561.589" y1="519.187" x2="281.464" y2="519.187"/>
+		
+			<line opacity="0.25" fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="562.673" y1="849.916" x2="282.548" y2="849.916"/>
+		<g>
+			<path opacity="0.1" fill="#231F20" d="M281.693,574.648V848.89h109.432V574.648H281.693z M374.712,833.388h-76.605V591.062
+				h76.605V833.388z"/>
+			<polygon opacity="0.2" fill="#231F20" points="291.72,584.678 291.72,838.857 381.094,838.857 374.71,833.388 298.104,833.388 
+				298.104,591.062 			"/>
+			<polygon opacity="0.2" fill="#231F20" points="281.692,574.648 391.124,574.648 391.124,848.89 386.609,844.375 386.609,579.648 
+				286.71,579.648 			"/>
+			<polyline opacity="0.2" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-miterlimit="10" points="281.932,575.025 
+				281.932,848.971 390.718,848.971 			"/>
+			<polygon opacity="0.3" fill="#FFFFFF" points="381.094,838.858 381.094,584.679 291.72,584.679 298.104,591.062 374.709,591.062 
+				374.709,833.388 			"/>
+			<polygon opacity="0.3" fill="#FFFFFF" points="286.71,844.346 386.609,844.375 391.124,848.89 281.692,848.89 281.692,574.648 
+				286.71,579.648 			"/>
+		</g>
+		<g>
+			<path opacity="0.1" fill="#231F20" d="M450.918,574.648V848.89h109.433V574.648H450.918z M543.938,833.388h-76.605V591.062
+				h76.605V833.388z"/>
+			<polygon opacity="0.2" fill="#231F20" points="460.945,584.678 460.945,838.857 550.319,838.857 543.936,833.388 467.33,833.388 
+				467.33,591.062 			"/>
+			<polygon opacity="0.2" fill="#231F20" points="450.918,574.648 560.35,574.648 560.35,848.89 555.835,844.375 555.835,579.648 
+				455.936,579.648 			"/>
+			<polyline opacity="0.2" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-miterlimit="10" points="451.157,575.025 
+				451.157,848.971 559.943,848.971 			"/>
+			<polygon opacity="0.3" fill="#FFFFFF" points="550.319,838.858 550.319,584.679 460.945,584.679 467.33,591.062 543.935,591.062 
+				543.935,833.388 			"/>
+			<polygon opacity="0.3" fill="#FFFFFF" points="455.936,844.346 555.835,844.375 560.35,848.89 450.918,848.89 450.918,574.648 
+				455.936,579.648 			"/>
+		</g>
+		<line opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" x1="561.589" y1="573.994" x2="281.464" y2="573.994"/>
+	</g>
+	
+		<line display="inline" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" x1="281.464" y1="42.462" x2="281.464" y2="937.75"/>
+	
+		<line display="inline" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" x1="561.589" y1="940.75" x2="561.589" y2="42.625"/>
+	<g display="inline">
+		<defs>
+			<rect id="SVGID_109_" x="298.113" y="111.244" width="249" height="391"/>
+		</defs>
+		<clipPath id="SVGID_110_">
+			<use xlink:href="#SVGID_109_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_110_)">
+			
+				<image overflow="visible" width="844" height="936" id="Product_Image_Glass_Image" xlink:href="//s3.amazonaws.com/db_site_assets/doors/glass/jpg/684-CRL-P.jpg"   transform="matrix(1 0 0 1 1.1504 2.2808)">
+			</image>
+		</g>
+		<use xlink:href="#SVGID_109_"  overflow="visible" fill="none" stroke="#333333" stroke-width="2" stroke-miterlimit="10"/>
+	</g>
+</g>
+
+ 
+ 
+
+
+<g id="Frame_x5F_Single-Sill">
+	<g display="inline">
+		
+			<radialGradient id="SVGID_647_" cx="423.0488" cy="929" r="335.8254" fx="411.3341" fy="919.8168" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1648" style="stop-color:#BDBDBD"/>
+			<stop  offset="0.3294" style="stop-color:#848484"/>
+			<stop  offset="0.4867" style="stop-color:#555555"/>
+			<stop  offset="0.6355" style="stop-color:#303030"/>
+			<stop  offset="0.7735" style="stop-color:#161616"/>
+			<stop  offset="0.8967" style="stop-color:#060606"/>
+			<stop  offset="0.993" style="stop-color:#000000"/>
+		</radialGradient>
+		<rect x="219" y="921" fill="url(#SVGID_647_)" width="408.097" height="16"/>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="212" y1="923" x2="626.097" y2="923"/>
+			
+				<line fill="none" stroke="#231F20" stroke-width="1.5" stroke-miterlimit="10" x1="212" y1="921.147" x2="626.097" y2="921.147"/>
+			<line fill="none" stroke="#848484" stroke-miterlimit="10" x1="212" y1="923.905" x2="626.097" y2="923.905"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="212" y1="925.828" x2="626.097" y2="925.828"/>
+			<line fill="none" stroke="#898989" stroke-miterlimit="10" x1="212" y1="926.733" x2="626.097" y2="926.733"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="212" y1="928.656" x2="626.097" y2="928.656"/>
+			<line fill="none" stroke="#999999" stroke-miterlimit="10" x1="212" y1="929.562" x2="626.097" y2="929.562"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="212" y1="931.484" x2="626.097" y2="931.484"/>
+			<line fill="none" stroke="#999999" stroke-miterlimit="10" x1="212" y1="932.39" x2="626.097" y2="932.39"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="212" y1="934.865" x2="626.097" y2="934.865"/>
+			<line fill="none" stroke="#999999" stroke-miterlimit="10" x1="212" y1="935.771" x2="626.097" y2="935.771"/>
+		</g>
+	</g>
+</g>
+<g id="Frame_x5F_Single-Hex" display="none">
+	<polygon display="inline"  id="FrameColor" fill="#f5f4f1" points="184.441,6.447 184.441,936 220.441,936 
+		220.441,42.447 622.897,42.447 622.897,936 659.897,936 659.897,6.447 	"/>
+</g>
+<g id="Frame_x5F_Single" display="none">
+	
+		<line opacity="0.3" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" x1="659.897" y1="936" x2="659.897" y2="6.447"/>
+	
+		<line opacity="0.6" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="622.897" y1="42.447" x2="622.897" y2="936"/>
+	<polyline opacity="0.8" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+		220.441,936 220.441,42.447 622.897,42.447 	"/>
+	<polygon opacity="0.35" points="219,41.245 624.421,41.245 629.772,35.447 214.197,35.447 	"/>
+	<polygon opacity="0.45" points="214.197,35.447 214.197,936 219,936 219,41.245 	"/>
+	<polygon opacity="0.2" points="624.421,41.245 624.421,936 629.772,936 629.772,35.447 	"/>
+	<polygon opacity="0.25" points="197.999,20.245 647.168,20.245 654.52,12.447 191.196,12.447 	"/>
+	<polygon opacity="0.35" points="191.196,12.447 191.196,936 197.999,936 197.999,20.245 	"/>
+	<polygon opacity="0.2" points="647.168,20.245 647.168,938 654.52,936 654.52,12.447 	"/>
+	<polyline opacity="0.25" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-miterlimit="10" points="194.196,936 
+		194.196,15.447 651.52,15.447 651.52,936 	"/>
+	<polyline opacity="0.5" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" points="
+		659.897,6.447 184.441,6.447 184.441,936 	"/>
+</g>
+
+
+<g id="Frame_SteelSecurity" display="">
+	<polygon id="Frame_x5F_Single-Hex_3_" display="inline" fill="#F4F4F4" points="202.339,23 202.339,936 220.441,936 
+		220.441,42.447 622.897,42.447 622.897,936 642,936 642,23 	"/>
+	
+		<line display="inline" opacity="0.3" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" x1="642" y1="936" x2="642" y2="23"/>
+	
+		<polyline display="inline" opacity="0.8" fill="none" stroke="#999999" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" points="
+		219.441,936 219.441,41.447 623.897,41.447 623.897,936 	"/>
+	
+		<polyline display="inline" opacity="0.5" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" points="
+		642,23 202.339,23 202.339,936 	"/>
+	
+		<line display="inline" fill="none" stroke="#DDDDDD" stroke-width="3" stroke-miterlimit="10" x1="212.667" y1="936" x2="212.667" y2="41.447"/>
+	
+		<line display="inline" fill="none" stroke="#DDDDDD" stroke-width="3" stroke-miterlimit="10" x1="631.333" y1="41.447" x2="631.333" y2="936"/>
+	
+		<line display="inline" fill="none" stroke="#DDDDDD" stroke-width="3" stroke-miterlimit="10" x1="202.982" y1="35" x2="641.261" y2="35"/>
+	<circle display="inline" fill="#666666" cx="319.907" cy="28.714" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="134.667" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="313" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="730" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="904.905" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="636.149" cy="134.667" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="636.149" cy="332" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="636.149" cy="730" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="636.149" cy="904.905" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="517" cy="28.714" r="3.433"/>
+	<circle display="inline" fill="#666666" cx="281.213" cy="28.714" r="2.19"/>
+	<circle display="inline" fill="#666666" cx="560.928" cy="28.714" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="94.432" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="250.401" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="417.349" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="662.397" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="820.502" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="250.401" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="417.349" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="662.397" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="820.502" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="636.148" cy="77.595" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="94.432" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="209.375" cy="77.595" r="2.189"/>
+	<circle display="inline" fill="#666666" cx="422.5" cy="28.714" r="2.189"/>
+	
+		<line display="inline" opacity="0.6" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="622.897" y1="42.447" x2="622.897" y2="936"/>
+	
+		<polyline display="inline" opacity="0.8" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+		220.441,936 220.441,42.447 622.897,42.447 	"/>
+	
+		<line display="inline" opacity="0.3" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="642.643" y1="40.434" x2="202.982" y2="40.434"/>
+</g>
+
+
+
+<g id="Petdoor" display="none">
+	<rect x="373.935" y="735" fill="#CCCCCC" width="95.065" height="136"/>
+	<linearGradient id="SVGID_634_" gradientUnits="userSpaceOnUse" x1="462.7959" y1="874.583" x2="380.1396" y2="731.4182">
+		<stop  offset="0" style="stop-color:#231F20"/>
+		<stop  offset="0.6914" style="stop-color:#231F20;stop-opacity:0"/>
+	</linearGradient>
+	<rect x="373.935" y="735" opacity="0.6" fill="url(#SVGID_634_)" width="95.065" height="136"/>
+	<path opacity="0.6" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" d="M357.521,718.588v167.914h127.893V718.588H357.521z
+		 M469,871h-95.065V735H469V871z"/>
+	<g opacity="0.2">
+		<path fill="#333333" d="M471.062,732.141v140.773h-99.165V732.141H471.062 M475.062,728.141h-4h-99.165h-4v4v140.773v4h4h99.165h4
+			v-4V732.141V728.141L475.062,728.141z"/>
+	</g>
+	<rect x="373.935" y="735" fill="#EFEFEF" width="95.065" height="8.689"/>
+	<circle fill="#666666" cx="421.882" cy="739.345" r="1.806"/>
+	<circle fill="#666666" cx="382.719" cy="739.345" r="1.806"/>
+	<circle fill="#666666" cx="401.143" cy="739.345" r="1.806"/>
+	<circle fill="#666666" cx="461.04" cy="739.345" r="1.806"/>
+	<circle fill="#666666" cx="442.616" cy="739.345" r="1.806"/>
+	<line fill="none" stroke="#666666" stroke-miterlimit="10" x1="373.935" y1="743.689" x2="469" y2="743.689"/>
+	<line fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" x1="373.935" y1="869.946" x2="469" y2="869.946"/>
+	<polyline opacity="0.45" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-miterlimit="10" points="485.413,886.502 
+		485.413,718.588 357.521,718.588 	"/>
+	<polyline opacity="0.3" fill="none" stroke="#333333" stroke-linecap="round" stroke-miterlimit="10" points="357.521,718.588 
+		357.521,886.502 485.413,886.502 	"/>
+	<line opacity="0.2" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" x1="357.521" y1="718.588" x2="373.935" y2="735"/>
+	<line opacity="0.2" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" x1="357.521" y1="886.502" x2="373.935" y2="871"/>
+	<line opacity="0.2" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" x1="485.414" y1="718.588" x2="469" y2="735"/>
+	<line opacity="0.2" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" x1="485.414" y1="886.502" x2="469" y2="871"/>
+</g>
+
+<g id="DoorBore-Single-R" display="">
+	<circle fill="#231F20" cx="592" cy="546.889" r="11.783"/>
+</g>
+<g id="DoorBore-Single-L" display="none">
+	<circle display="inline" fill="#231F20" cx="252.285" cy="546.889" r="11.783"/>
+</g>
+<g id="DoorBore-Double-R" display="none">
+	<circle display="inline" fill="#231F20" cx="592" cy="497.16" r="11.783"/>
+	<circle display="inline" fill="#231F20" cx="592" cy="546.889" r="11.783"/>
+</g>
+<g id="DoorBore-Double-L" display="none">
+	<circle display="inline" fill="#231F20" cx="252.285" cy="497.16" r="11.783"/>
+	<circle display="inline" fill="#231F20" cx="252.285" cy="546.889" r="11.783"/>
+</g>
+</svg>
+
